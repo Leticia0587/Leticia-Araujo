@@ -1,3 +1,5 @@
+## Olá! Eu sou a Letícia e esse é meu repositório.
+
 <div align="center">
   <a href="https://github.com/Letícia0587">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leticia0587&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
