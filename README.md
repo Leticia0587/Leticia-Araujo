@@ -1,9 +1,9 @@
 ## Olá! Eu sou a Letícia e esse é meu repositório.
 
 <div align="center">
-  <a href="https://github.com/Letícia0587">
-  <img width=42% height="180em" src="https://github-readme-stats.vercel.app/api?username=Leticia0587&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
-  <img width=50% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia0587&layout=compact&langs_count=7&theme=rose_pine "/>
+  <a href="https://github.com/Leticia0587">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Leticia0587&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia0587&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
