@@ -1,20 +1,11 @@
 ## Olá! Eu sou a Letícia e esse é meu repositório.
-
 <div align="center">
-  <a href="https://github.com/Leticia0587">
-  <img  width=42% height="180em" src="https://github-readme-stats.vercel.app/api?username=Leticia0587&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width=50% height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leticia0587&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-<div>
-  <br>
-  <a href="https://www.linkedin.com/in/let%C3%ADcia-araujo-758583210" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://github.com/leticia0587">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticia0587&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticia0587&layout=compact&langs_count=7&theme=dracula"/>
+ 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  </br>
+
 </div>
 
